@@ -1,5 +1,4 @@
-![welcometomygithub](https://readme-typing-svg.herokuapp.com/?size=30&lines=Welcome+To+My+Github)
-![profile!](https://readme-typing-svg.herokuapp.com/?size=30&lines=Profile!)
+![welcometomygithub](https://readme-typing-svg.herokuapp.com/?size=30&lines=Welcome+To+My+Github)![ profile!](https://readme-typing-svg.herokuapp.com/?size=30&lines=%20Profile!)
 - 👋 Hi, I’m @Bartosz8291
 - Im Making WINDOWS Apps & Android APPS
 - Im Programming!
